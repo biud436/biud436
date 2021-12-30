@@ -16,7 +16,7 @@
 - Github Actions
 - CI/CD
 
-## :desktop: Backend
+## :rocket: Backend
 
 - Nest.js
 - Node.js
