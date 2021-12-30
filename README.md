@@ -21,14 +21,14 @@
 - Nest.js
 - Node.js
 - Express
+- TypeORM
+- SequelizeORM
 
 ## :cloud: Database
 
 - MariaDB
 - MySQL
 - Redis
-- TypeORM
-- SequelizeORM
 
 ## :rocket: Frontend
 
@@ -42,11 +42,10 @@
 - TypeScript
 - JavaScript
 - Ruby
-- C/C++
 - C#
+- C/C++
 
 ## :rocket: Collaboration
 
 - Notion
-- Slack
 - Github
