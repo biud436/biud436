@@ -53,4 +53,6 @@
 
 ## :star: Work Experience
 
-[https://portfolio.biud436.com (한국어/Korean)](https://portfolio.biud436.com/)
+Portfolio - [https://portfolio.biud436.com](https://portfolio.biud436.com/)
+
+Blog - [https://blog.naver.com/biud436](https://blog.naver.com/biud436)
