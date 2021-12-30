@@ -51,6 +51,6 @@
 - Notion
 - Github
 
-## :star: Work Experience & Portfolio
+## :star: Work Experience (Portfolio)
 
 [https://portfolio.biud436.com](https://portfolio.biud436.com/)
