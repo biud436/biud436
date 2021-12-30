@@ -15,6 +15,7 @@
 - Nginx
 - Github Actions
 - CI/CD
+- Certbot
 
 ## :rocket: Backend
 
