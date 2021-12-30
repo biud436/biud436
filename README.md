@@ -8,7 +8,6 @@
 
 - Linux(Ubuntu)
 - AWS EC2
-- AWS AMI
 - AWS RDS
 - Docker
 - Docker Compose
@@ -36,6 +35,7 @@
 - Vue.js
 - Nuxt.js
 - Webpack
+- Electron
 - SCSS
 
 ## :sunny: Languages
