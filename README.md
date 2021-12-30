@@ -13,7 +13,7 @@
 - Docker Compose
 - Nginx
 - Github Actions
-- CI/CD
+- CI/CD Server (using Github Webhook)
 - Certbot
 
 ## :rocket: Backend
