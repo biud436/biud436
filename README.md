@@ -53,6 +53,5 @@
 
 ## :star: Work Experience
 
-Portfolio - [https://portfolio.biud436.com](https://portfolio.biud436.com/)
-
-Blog - [https://blog.naver.com/biud436](https://blog.naver.com/biud436)
+- Portfolio - [https://portfolio.biud436.com](https://portfolio.biud436.com/)
+- Blog - [https://blog.naver.com/biud436](https://blog.naver.com/biud436)
