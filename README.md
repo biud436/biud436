@@ -53,4 +53,4 @@
 
 ## :star: Work Experience (Portfolio)
 
-[https://portfolio.biud436.com (Korean)](https://portfolio.biud436.com/)
+[https://portfolio.biud436.com (한국어/Korean)](https://portfolio.biud436.com/)
