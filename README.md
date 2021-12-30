@@ -48,8 +48,8 @@
 
 ## :rocket: Collaboration
 
+- Git(Github)
 - Notion
-- Github
 
 ## :star: Work Experience (Portfolio)
 
