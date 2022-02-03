@@ -11,6 +11,7 @@
 - AWS RDS
 - AWS Amazon Route 53
 - AWS Elastic Load Balancing
+- AWS Certificate Manager
 - Docker
 - Docker Compose
 - Nginx
