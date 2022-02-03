@@ -9,6 +9,8 @@
 - Linux(Ubuntu)
 - AWS EC2
 - AWS RDS
+- AWS Amazon Route 53
+- AWS Elastic Load Balancing
 - Docker
 - Docker Compose
 - Nginx
