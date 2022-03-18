@@ -10,6 +10,7 @@
 - AWS EC2
 - AWS RDS
 - AWS Amazon Route 53
+- AWS SES
 - AWS Elastic Load Balancing
 - AWS Certificate Manager
 - Docker
