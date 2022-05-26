@@ -36,6 +36,8 @@
 
 ## :rocket: Frontend
 
+- React.js
+  - Mobx
 - Vue.js
 - Nuxt.js
 - Webpack
