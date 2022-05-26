@@ -38,6 +38,7 @@
 
 - React.js
   - Mobx
+  - Recoil
 - Vue.js
 - Nuxt.js
 - Webpack
