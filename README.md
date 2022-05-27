@@ -27,7 +27,6 @@
   - TypeORM
   - SequelizeORM
   - Bull.js
-- Spring Boot
 
 ## :cloud: Database
 
@@ -37,16 +36,19 @@
 
 ## :rocket: Frontend
 
+- HTML5
+- SCSS
+- Tailwind CSS
+- Bootstrap 5
 - React.js
   - Mobx
   - Recoil
   - Redux
   - MUI
 - Vue.js
-- Nuxt.js
+  - Nuxt.js
 - Webpack
 - Electron
-- SCSS
 
 ## :sunny: Languages
 
