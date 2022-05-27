@@ -27,6 +27,7 @@
   - TypeORM
   - SequelizeORM
   - Bull.js
+  - JEST
 
 ## :cloud: Database
 
@@ -45,6 +46,7 @@
   - Recoil
   - Redux
   - MUI
+  - JEST
 - Vue.js
   - Nuxt.js
 - Webpack
