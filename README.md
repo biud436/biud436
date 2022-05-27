@@ -59,6 +59,12 @@
 - Ruby
 - C#
 - C/C++
+- Java
+
+## 🎨 Design
+
+- Adobe Photoshop
+- Figma
 
 ## :rocket: Collaboration
 
