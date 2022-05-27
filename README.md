@@ -22,11 +22,12 @@
 
 ## :rocket: Backend
 
-- Nest.js
-- Node.js
-- Express
-- TypeORM
-- SequelizeORM
+- Node.js (Express)
+  - Nest.js
+  - TypeORM
+  - SequelizeORM
+  - Bull.js
+- Spring Boot
 
 ## :cloud: Database
 
@@ -39,6 +40,7 @@
 - React.js
   - Mobx
   - Recoil
+  - Redux
   - MUI
 - Vue.js
 - Nuxt.js
