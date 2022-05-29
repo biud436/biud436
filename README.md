@@ -14,13 +14,8 @@
 
 ## :zap: Devops
 
-- Linux(Ubuntu)
-- AWS EC2
-- AWS RDS
-- AWS Amazon Route 53
-- AWS SES
-- AWS Elastic Load Balancing
-- AWS Certificate Manager
+- Linux(Ubuntu Server 20.04)
+- AWS (EC2, RDS, Route 53, SES, Code Deploy)
 - Docker
 - Docker Compose
 - Nginx
