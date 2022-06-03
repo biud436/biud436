@@ -43,7 +43,7 @@
 
 # 🔖 업무 경험 및 프로젝트 (Work Experience & Projects)
 
-[Portfolio](https://portfolio.biud436.com)
+[포트폴리오](https://portfolio.biud436.com)
 
 # 📚 기술 블로그 (Blog)
 
