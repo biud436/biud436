@@ -12,10 +12,10 @@
 
 ---
 
-## 🛠 기술 스택 (Tech Stack)
+# 🛠 기술 스택 (Tech Stack)
 실제 직무에서 사용해봤던 기술을 위주로 정리하였습니다
 
-### 백엔드 (Backend)
+## 백엔드 (Backend)
 
 <div>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">  
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">    
 </div>
 
-### 프론트엔드 (Frontend)
+## 프론트엔드 (Frontend)
 
 <div>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">    
@@ -41,10 +41,10 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
-## 🔖 업무 경험 및 프로젝트 (Work Experience & Projects)
+# 🔖 업무 경험 및 프로젝트 (Work Experience & Projects)
 
 [Portfolio](https://portfolio.biud436.com)
 
-## 📚 기술 블로그 (Blog)
+# 📚 기술 블로그 (Blog)
 
 [러닝은빛의 작업실](https://blog.naver.com/biud436)
