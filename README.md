@@ -48,7 +48,7 @@
 
 # 📈 오픈 소스 프로젝트 (Open Source Projects)
 
-> [MV](https://github.com/biud436/MV) | [RGSS3](https://github.com/biud436/RGSS3) - 5년간 100개 이상의 RPG Maker 스크립트를 개발, 무료로 배포하여 많은 게임 개발자분들에게 도움을 주었습니다. 
+> [MV](https://github.com/biud436/MV) | [RGSS3](https://github.com/biud436/RGSS3) - 5년간 100개 이상의 RPG Maker 스크립트를 개발, 무료로 배포, 빠른 버그 대응 작업을 하여 많은 게임 개발자 분들에게 큰 도움을 주었습니다. 
 
 > [MV App Builder](https://github.com/biud436/MV-App-Builder) - 웹뷰를 이용한 게임을 간단하게 앱으로 빌드할 수 있게 도와주는 컴파일러 프로그램입니다.
 
