@@ -46,6 +46,14 @@
 
 [포트폴리오](https://portfolio.biud436.com)
 
+# 📈 오픈 소스 프로젝트 (Open Source Projects)
+
+> [MV](https://github.com/biud436/MV) | [RGSS3](https://github.com/biud436/RGSS3) - 5년간 100개 이상의 RPG Maker 스크립트를 개발하여 배포하였고 국내외 관련 게임 개발 커뮤니티 발전에 기여하였습니다. 
+
+> [MV App Builder](https://github.com/biud436/MV-App-Builder) - 웹뷰를 이용한 게임을 간단하게 앱으로 빌드할 수 있게 도와주는 컴파일러 프로그램입니다.
+
+> [vscode-rgss-script-compiler](https://github.com/biud436/vscode-rgss-script-compiler) - 루비 스크립트 편집을 툴 없이도 할 수 있게 도와주는 Visual Studio Code Extension 입니다.
+
 # 📚 기술 블로그 (Blog)
 
-[러닝은빛의 작업실](https://blog.naver.com/biud436)
+[러닝은빛의 작업실](https://blog.naver.com/biud436) - 1000개 가까이 되는 수 많은 포스트와 개발 일지가 있는 제 기술 블로그입니다. 
