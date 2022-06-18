@@ -53,6 +53,8 @@
 
 > [vscode-rgss-script-compiler](https://github.com/biud436/vscode-rgss-script-compiler) - 루비 스크립트 편집을 툴 없이도 할 수 있게 도와주는 Visual Studio Code Extension 입니다.
 
+> [InitialEditor](https://github.com/biud436/InitialEditor) - 웹 기반(리액트) 2D 타일 맵에디터(Tilemap Editor) 입니다.
+
 # 📚 Blog
 
 [러닝은빛의 작업실](https://blog.naver.com/biud436) - 1000개 가까이 되는 수 많은 포스트와 개발 일지가 있는 제 기술 블로그입니다. 
