@@ -1,4 +1,4 @@
-✋ Hi, there, I'm backend server application developer.
+### 👋 Hi, there, I'm backend server application developer. 
 
 # 🛠 Tech Stack
 
