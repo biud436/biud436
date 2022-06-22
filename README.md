@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm 어진석(Jinseok Eo) and the developer of the backend server application.
+### 👋 Hi there, I'm Jinseok Eo(어진석) and the developer of the backend server application.
 
 ---
 
