@@ -1,7 +1,3 @@
-### 👋 Hi there, I'm `Jinseok Eo` and the developer of the backend server application.
-
----
-
 # 🛠 Tech Stack
 
 ## Backend
