@@ -1,5 +1,7 @@
 ### 👋 Hi, there, I'm backend server application developer. 
 
+---
+
 # 🛠 Tech Stack
 
 ## Backend
