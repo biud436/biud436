@@ -1,3 +1,5 @@
+✋
+
 # 🛠 Tech Stack
 
 ## Backend
@@ -24,7 +26,6 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">    
   <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">  
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div>
 
 # 🔖 Work Experience & Projects
@@ -44,3 +45,10 @@
 # 📚 Blog
 
 [러닝은빛의 작업실](https://blog.naver.com/biud436) - 1000개 가까이 되는 수 많은 포스트와 개발 일지가 있는 제 기술 블로그입니다. 
+
+# 🔩 Github Stats
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=biud436&theme=buefy&show_icons=true" height="170" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biud436&layout=compact" />
+</div>
