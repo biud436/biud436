@@ -1,4 +1,4 @@
-✋
+✋ Hi, there, I'm backend server application developer.
 
 # 🛠 Tech Stack
 
@@ -30,7 +30,7 @@
 
 # 🔖 Work Experience & Projects
 
-[포트폴리오](https://portfolio.biud436.com)
+[Portfolio](https://portfolio.biud436.com)
 
 # 📈 Open Source Projects
 
