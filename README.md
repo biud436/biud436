@@ -32,16 +32,6 @@ Hi There 👋
 
 [Portfolio](https://portfolio.biud436.com)
 
-# 📈 Open Source Projects
-
-> [MV](https://github.com/biud436/MV) | [RGSS3](https://github.com/biud436/RGSS3)
-
-> [MV App Builder](https://github.com/biud436/MV-App-Builder) - 안드로이드 앱 자동 빌드 도구
-
-> [vscode-rgss-script-compiler](https://github.com/biud436/vscode-rgss-script-compiler)
-
-> [InitialEditor](https://github.com/biud436/InitialEditor) - 리액트로 만든 2D 게임 맵에디터 입니다.
-
 # 📚 Blog
 
 [러닝은빛의 작업실 (Blog)](https://blog.naver.com/biud436)
