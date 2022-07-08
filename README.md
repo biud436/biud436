@@ -20,10 +20,6 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biud436&show_icons=true&locale=en&layout=compact" alt="biud436" /></p>
-
-<br />
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en" alt="biud436" /></p>
 
 <br />
