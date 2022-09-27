@@ -38,4 +38,4 @@
 
 # 🔖 Work Experience & Projects
 
-[포트폴리오/Portfolio](https://portfolio.biud436.com)
+[Portfolio](https://portfolio.biud436.com)
