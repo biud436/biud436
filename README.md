@@ -36,6 +36,10 @@
 
 <br />
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biud436&" alt="biud436" /></p>
+
+<br />
+
 # 🔖 Work Experience & Projects
 
 [Portfolio](https://portfolio.biud436.com)
