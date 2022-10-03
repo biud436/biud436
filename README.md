@@ -31,9 +31,3 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-### 🔖 Work Experience & Projects
-
-[Portfolio](https://portfolio.biud436.com)
-
-[Blog](https://blog.naver.com/biud436)
