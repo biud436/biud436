@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinseok Eo</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biud436" alt="biud436" /></a> </p>
-
 ### 🧳 Github Stats
 
 <br />
