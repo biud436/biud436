@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jinseok Eo</h1>
 
+
+## 🧳 Github Stats
+
+<br />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en" alt="biud436" /></p>
+
+<br />
+
+
 ## 🛠 Skills
 
 ### Backend & Devops
@@ -21,11 +31,3 @@
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-## 🧳 Github Stats
-
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en" alt="biud436" /></p>
-
-<br />
