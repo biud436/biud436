@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinseok Eo</h1>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=biud436" alt="biud436" /> </p>
-
-- 📝 I regularly write articles on [https://blog.naver.com/biud436](https://blog.naver.com/biud436)
-
 ## 🛠 Skills
 
 ### Backend & Devops
