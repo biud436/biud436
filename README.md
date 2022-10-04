@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Jinseok Eo</h1>
-
 ### 🧳 Github Stats
 
 <br />
