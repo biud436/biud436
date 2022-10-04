@@ -6,8 +6,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biud436&theme=default)
 
-<br />
-
 ## 🛠 Skills
 
 ### Backend & Devops
