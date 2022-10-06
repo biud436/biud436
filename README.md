@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://blog-api.biud436.com/image/stats?text=I%27m%20a%20Backend%20Server%20Application%20Developer.&color=ffffff&textSize=20&y=150&username=%EC%96%B4%EC%A7%84%EC%84%9D" />
+<img src="https://blog-api.biud436.com/image/stats?text=I%27m%20a%20Backend%20Server%20Application%20Developer.&color=ffffff&textSize=20&y=150&username=Jinseok%20Eo's%20Github" />
 </p>
 
 ## 🧳 Github Stats
