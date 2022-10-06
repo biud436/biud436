@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://blog-api.biud436.com/image/stats?text=I%27m%20a%20Backend%20Server%20Application%20Developer.&color=ffffff&textSize=20&y=150&username=%EC%96%B4%EC%A7%84%EC%84%9D" />
+</p>
+
 ## 🧳 Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
