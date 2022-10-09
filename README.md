@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://github.com/biud436/blog-api-server#github-profile-image"><img src="https://blog-api.biud436.com/image/shake-profile?text=I%27m%20a%20Backend%20Server%20Application%20Developer&color=ffffff&textSize=20&y=150&username=biud436" /></a>
-</p>
+![](./github-metrics.svg)
 
 ## 🧳 Github Stats
 
@@ -30,3 +28,4 @@
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
