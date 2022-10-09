@@ -1,5 +1,3 @@
-![](./github-metrics.svg)
-
 ## 🧳 Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
@@ -29,3 +27,4 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+![](./github-metrics.svg)
