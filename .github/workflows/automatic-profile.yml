@@ -25,17 +25,16 @@ jobs:
       - name: Run a multi-line script
         run: |
 
-      # Install dependencies    
-      - name : git clone and commit
-        run : |
-          git config --global user.name "biud436"
-          git config --global user.email "biud436@gmail.com"
-          
-          git clone https://github.com/biud436/biud436
-          cd biud436
+      - name : Download SVG image
+        run: |
           curl "https://blog-api.biud436.com/image/shake-profile?text=I%27m%20a%20Backend%20Server%20Application%20Developer.&color=ffffff&textSize=20&y=152&username=biud436&seed=$RANDOM" > profile.svg
-          git add .
-          git commit -m "feat: Update profile.svg"
+
+      # Install dependencies    
+      - name : Commit files
+        run : |
+          git config --local user.name "biud436"
+          git config --local user.email "biud436@gmail.com"
+          git commit -m "feat: Update profile.svg" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
