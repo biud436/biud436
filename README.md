@@ -1,11 +1,3 @@
-## 🧳 Github Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
-
-<p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biud436&theme=monokai"> </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biud436&theme=monokai)
-
 ## 🛠 Skills
 
 ### Backend & Devops
@@ -26,5 +18,13 @@
 ### Languages
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## 🧳 Github Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
+
+<p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biud436&theme=monokai"> </p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biud436&theme=monokai)
 
 ![](./github-metrics.svg)
