@@ -591,7 +591,7 @@
             font-weight="bold"
             fill="#000"
             class="smooth-text-reverse"
-        >48 Followers</text>
+        >49 Followers</text>
 
         <!-- Last Updated Text -->
         <text
@@ -600,6 +600,6 @@
             text-anchor="right"
             fill="#000"
             class="date-text"
-        >Last Updated: 10/20/2022, 11:05:47 PM</text>
+        >Last Updated: 10/21/2022, 12:25:17 AM</text>
     </svg>        
     
