@@ -27,7 +27,7 @@
 
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biud436&theme=monokai"> </p>
 
-## Projects (Korean, 한국어)
+## 😎 Projects (Korean, 한국어)
 
 ### [Blog Front](https://github.com/biud436/blog-front)
 React.js와 Next.js, MUI로 개발하여 AWS EC2에서 실제로 운영하고 있는 개인 잡담 블로그로 [blog.biud436.com](https://blog.biud436.com)에서 만나볼 수 있습니다.
