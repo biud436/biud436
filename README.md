@@ -32,11 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
 
 <p> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biud436&theme=monokai"> </p>
-
-## 😎 Projects (Korean)
-
-### [Blog Front](https://github.com/biud436/blog-front)
-React.js와 Next.js, MUI로 개발하여 AWS EC2에서 실제로 운영하고 있는 개인 잡담 블로그로 [blog.biud436.com](https://blog.biud436.com)에서 만나볼 수 있습니다.
-
-### [Blog Api Server](https://github.com/biud436/blog-api-server)
-Nest.js (Node.js)와 Redis, TypeORM, MariaDB, Docker로 개발하고 운영중인 블로그의 API 서버입니다.
