@@ -32,8 +32,21 @@
 
 ## 😎 Projects
 
-### [Blog Front](https://github.com/biud436/blog-front)
+### Web Applications
+
+#### [Blog Front](https://github.com/biud436/blog-front)
 This project is the blog that is made with the javascript library called `React.js` and the framework named `Next.js`
 
-### [Blog Api Server](https://github.com/biud436/blog-api-server)
+#### [Blog Api Server](https://github.com/biud436/blog-api-server)
 This project is the blog server that is made with the server framework called `nestjs@v9.1.4` and stuffs such as `Redis`, `TypeORM`, `MariaDB`, `Docker`
+
+### Applications
+
+#### [InitialEditor](https://github.com/biud436/InitialEditor)
+This project allows you to edit multi dimensional tile map on my own game engine. it is worked fine on any platforms such as Linux Desktop, OSX, Windows and so on.
+
+#### [MV-App-Builder](https://github.com/biud436/MV-App-Builder)
+This tool allows you to easy to build the app for RPG Maker MV using Cordova.
+
+#### [VSCode RGSS Script Compiler Extension](https://github.com/biud436/vscode-rgss-script-compiler)
+RGSS Script Compiler is the extension of Text Editor called Visual Studio Code. if you are using this extension, you can modify script files and create the bundle file called Scripts.rvdata2 in Visual Studio Code without internal Script Editor directly.
