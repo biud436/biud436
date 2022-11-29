@@ -46,10 +46,10 @@ This project is the blog server that is made with the server framework called `n
 This project allows you to edit multi dimensional tile map on my own game engine. it is worked fine on any platforms such as Linux Desktop, OSX, Windows and so on.
 
 #### [Initial2D](https://github.com/biud436/Initial2D)
-This game engine is developed base on Windows GDI using C++ language. it provides a many of features like Tile Map Tool and the Lua Script Editor. This is only provided GDI renderer currently.
+This game engine is developed base on Windows GDI using `C++` language. it provides a many of features like Tile Map Tool and the `Lua` Script Editor. This is only provided GDI renderer currently.
 
 #### [MV-App-Builder](https://github.com/biud436/MV-App-Builder)
-This tool allows you to easy to build the app for RPG Maker MV using Cordova.
+This tool allows you to easy to build the app for RPG Maker MV using Cordova. it is developed base on `.NET Framework` using `C#` language. 
 
 #### [VSCode RGSS Script Compiler Extension](https://github.com/biud436/vscode-rgss-script-compiler)
-RGSS Script Compiler is the extension of Text Editor called Visual Studio Code. if you are using this extension, you can modify script files and create the bundle file called Scripts.rvdata2 in Visual Studio Code without internal Script Editor directly.
+RGSS Script Compiler is the extension of Text Editor called `Visual Studio Code`. if you are using this extension, you can modify script files and create the bundle file called Scripts.rvdata2 in Visual Studio Code without internal Script Editor directly.
