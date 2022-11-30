@@ -34,22 +34,22 @@
 
 ### Web Applications
 
-#### [Blog Front](https://github.com/biud436/blog-front)
+#### [Blog Front](https://github.com/biud436/blog-front) `Next.js`
 This project is the blog that is made with the javascript library called `React.js` and the framework named `Next.js`
 
-#### [Blog Api Server](https://github.com/biud436/blog-api-server)
+#### [Blog Api Server](https://github.com/biud436/blog-api-server) `Nest.js`
 This project is the blog server that is made with the server framework called `nestjs@v9.1.4` and stuffs such as `Redis`, `TypeORM`, `MariaDB`, `Docker`
 
 ### Desktop Applications
 
-#### [InitialEditor](https://github.com/biud436/InitialEditor)
+#### [InitialEditor](https://github.com/biud436/InitialEditor) `Typescript` `Next.js`
 This project allows you to edit multi dimensional tile map on my own game engine. it is worked fine on any platforms such as Linux Desktop, OSX, Windows and so on.
 
-#### [Initial2D](https://github.com/biud436/Initial2D)
+#### [Initial2D](https://github.com/biud436/Initial2D) `C++` `GDI`
 This game engine is developed base on Windows GDI using `C++` language. it provides a many of features like Tile Map Tool and the `Lua` Script Editor. This is only provided GDI renderer currently.
 
-#### [MV-App-Builder](https://github.com/biud436/MV-App-Builder)
+#### [MV-App-Builder](https://github.com/biud436/MV-App-Builder) `C#` `Winform`
 This tool allows you to easy to build the app for RPG Maker MV using Cordova. it is developed base on `.NET Framework` using `C#` language. 
 
-#### [VSCode RGSS Script Compiler Extension](https://github.com/biud436/vscode-rgss-script-compiler)
+#### [VSCode RGSS Script Compiler Extension](https://github.com/biud436/vscode-rgss-script-compiler) `Typescript`
 RGSS Script Compiler is the extension of Text Editor called `Visual Studio Code`. if you are using this extension, you can modify script files and create the bundle file called Scripts.rvdata2 in Visual Studio Code without internal Script Editor directly.
