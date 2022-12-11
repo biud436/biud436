@@ -156,301 +156,774 @@
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >I</text>
+        >
+            <animateMotion path="M-10,20 C10,-20 50,80 10,20 C30 172,80 -40-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 10 152"
+                to="10 10 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        I
+        </text>
         <text
             x="30"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >&#x27;</text>
+        >
+            <animateMotion path="M10,20 C30,-20 70,80 30,20 C50 172,80 -20-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 30 152"
+                to="10 30 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        &#x27;
+        </text>
         <text
             x="50"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >m</text>
+        >
+            <animateMotion path="M30,20 C50,-20 90,80 50,20 C70 172,80 0-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 50 152"
+                to="10 50 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        m
+        </text>
         <text
             x="70"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        > </text>
+        >
+            <animateMotion path="M50,20 C70,-20 110,80 70,20 C90 172,80 20-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 70 152"
+                to="10 70 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+         
+        </text>
         <text
             x="90"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >a</text>
+        >
+            <animateMotion path="M70,20 C90,-20 130,80 90,20 C110 172,80 40-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 90 152"
+                to="10 90 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        a
+        </text>
         <text
             x="110"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        > </text>
+        >
+            <animateMotion path="M90,20 C110,-20 150,80 110,20 C130 172,80 60-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 110 152"
+                to="10 110 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+         
+        </text>
         <text
             x="130"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >B</text>
+        >
+            <animateMotion path="M110,20 C130,-20 170,80 130,20 C150 172,80 80-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 130 152"
+                to="10 130 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        B
+        </text>
         <text
             x="150"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >a</text>
+        >
+            <animateMotion path="M130,20 C150,-20 190,80 150,20 C170 172,80 100-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 150 152"
+                to="10 150 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        a
+        </text>
         <text
             x="170"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >c</text>
+        >
+            <animateMotion path="M150,20 C170,-20 210,80 170,20 C190 172,80 120-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 170 152"
+                to="10 170 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        c
+        </text>
         <text
             x="190"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >k</text>
+        >
+            <animateMotion path="M170,20 C190,-20 230,80 190,20 C210 172,80 140-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 190 152"
+                to="10 190 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        k
+        </text>
         <text
             x="210"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >e</text>
+        >
+            <animateMotion path="M190,20 C210,-20 250,80 210,20 C230 172,80 160-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 210 152"
+                to="10 210 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="230"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >n</text>
+        >
+            <animateMotion path="M210,20 C230,-20 270,80 230,20 C250 172,80 180-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 230 152"
+                to="10 230 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        n
+        </text>
         <text
             x="250"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >d</text>
+        >
+            <animateMotion path="M230,20 C250,-20 290,80 250,20 C270 172,80 200-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 250 152"
+                to="10 250 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        d
+        </text>
         <text
             x="270"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        > </text>
+        >
+            <animateMotion path="M250,20 C270,-20 310,80 270,20 C290 172,80 220-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 270 152"
+                to="10 270 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+         
+        </text>
         <text
             x="290"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >S</text>
+        >
+            <animateMotion path="M270,20 C290,-20 330,80 290,20 C310 172,80 240-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 290 152"
+                to="10 290 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        S
+        </text>
         <text
             x="310"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >e</text>
+        >
+            <animateMotion path="M290,20 C310,-20 350,80 310,20 C330 172,80 260-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 310 152"
+                to="10 310 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="330"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >r</text>
+        >
+            <animateMotion path="M310,20 C330,-20 370,80 330,20 C350 172,80 280-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 330 152"
+                to="10 330 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        r
+        </text>
         <text
             x="350"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >v</text>
+        >
+            <animateMotion path="M330,20 C350,-20 390,80 350,20 C370 172,80 300-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 350 152"
+                to="10 350 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        v
+        </text>
         <text
             x="370"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >e</text>
+        >
+            <animateMotion path="M350,20 C370,-20 410,80 370,20 C390 172,80 320-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 370 152"
+                to="10 370 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="390"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >r</text>
+        >
+            <animateMotion path="M370,20 C390,-20 430,80 390,20 C410 172,80 340-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 390 152"
+                to="10 390 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        r
+        </text>
         <text
             x="410"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        > </text>
+        >
+            <animateMotion path="M390,20 C410,-20 450,80 410,20 C430 172,80 360-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 410 152"
+                to="10 410 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+         
+        </text>
         <text
             x="430"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >A</text>
+        >
+            <animateMotion path="M410,20 C430,-20 470,80 430,20 C450 172,80 380-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 430 152"
+                to="10 430 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        A
+        </text>
         <text
             x="450"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >p</text>
+        >
+            <animateMotion path="M430,20 C450,-20 490,80 450,20 C470 172,80 400-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 450 152"
+                to="10 450 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        p
+        </text>
         <text
             x="470"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >p</text>
+        >
+            <animateMotion path="M450,20 C470,-20 510,80 470,20 C490 172,80 420-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 470 152"
+                to="10 470 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        p
+        </text>
         <text
             x="490"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >l</text>
+        >
+            <animateMotion path="M470,20 C490,-20 530,80 490,20 C510 172,80 440-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 490 152"
+                to="10 490 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        l
+        </text>
         <text
             x="510"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >i</text>
+        >
+            <animateMotion path="M490,20 C510,-20 550,80 510,20 C530 172,80 460-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 510 152"
+                to="10 510 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        i
+        </text>
         <text
             x="530"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >c</text>
+        >
+            <animateMotion path="M510,20 C530,-20 570,80 530,20 C550 172,80 480-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 530 152"
+                to="10 530 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        c
+        </text>
         <text
             x="550"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >a</text>
+        >
+            <animateMotion path="M530,20 C550,-20 590,80 550,20 C570 172,80 500-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 550 152"
+                to="10 550 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        a
+        </text>
         <text
             x="570"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >t</text>
+        >
+            <animateMotion path="M550,20 C570,-20 610,80 570,20 C590 172,80 520-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 570 152"
+                to="10 570 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        t
+        </text>
         <text
             x="590"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >i</text>
+        >
+            <animateMotion path="M570,20 C590,-20 630,80 590,20 C610 172,80 540-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 590 152"
+                to="10 590 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        i
+        </text>
         <text
             x="610"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >o</text>
+        >
+            <animateMotion path="M590,20 C610,-20 650,80 610,20 C630 172,80 560-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 610 152"
+                to="10 610 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        o
+        </text>
         <text
             x="630"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >n</text>
+        >
+            <animateMotion path="M610,20 C630,-20 670,80 630,20 C650 172,80 580-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 630 152"
+                to="10 630 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        n
+        </text>
         <text
             x="650"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        > </text>
+        >
+            <animateMotion path="M630,20 C650,-20 690,80 650,20 C670 172,80 600-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 650 152"
+                to="10 650 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+         
+        </text>
         <text
             x="670"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >D</text>
+        >
+            <animateMotion path="M650,20 C670,-20 710,80 670,20 C690 172,80 620-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 670 152"
+                to="10 670 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        D
+        </text>
         <text
             x="690"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >e</text>
+        >
+            <animateMotion path="M670,20 C690,-20 730,80 690,20 C710 172,80 640-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 690 152"
+                to="10 690 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="710"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >v</text>
+        >
+            <animateMotion path="M690,20 C710,-20 750,80 710,20 C730 172,80 660-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 710 152"
+                to="10 710 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        v
+        </text>
         <text
             x="730"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >e</text>
+        >
+            <animateMotion path="M710,20 C730,-20 770,80 730,20 C750 172,80 680-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 730 152"
+                to="10 730 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="750"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >l</text>
+        >
+            <animateMotion path="M730,20 C750,-20 790,80 750,20 C770 172,80 700-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 750 152"
+                to="10 750 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        l
+        </text>
         <text
             x="770"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >o</text>
+        >
+            <animateMotion path="M750,20 C770,-20 810,80 770,20 C790 172,80 720-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 770 152"
+                to="10 770 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        o
+        </text>
         <text
             x="790"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >p</text>
+        >
+            <animateMotion path="M770,20 C790,-20 830,80 790,20 C810 172,80 740-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 790 152"
+                to="10 790 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        p
+        </text>
         <text
             x="810"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >e</text>
+        >
+            <animateMotion path="M790,20 C810,-20 850,80 810,20 C830 172,80 760-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 810 152"
+                to="10 810 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        e
+        </text>
         <text
             x="830"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong-2"
-        >r</text>
+        >
+            <animateMotion path="M810,20 C830,-20 870,80 830,20 C850 172,80 780-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 830 152"
+                to="10 830 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        r
+        </text>
         <text
             x="850"
             y="152"
             fill="ffffff"
             font-size="20"
             class="ping-pong"
-        >.</text>
+        >
+            <animateMotion path="M830,20 C850,-20 890,80 850,20 C870 172,80 800-15,20 z" begin="0s" dur="10s" repeatCount="indefinite"/>
+            <animateTransform
+                attributeName="transform"
+                type="rotate"
+                from="0 850 152"
+                to="10 850 152"
+                dur="3s"
+                repeatCount="indefinite"
+            />
+        .
+        </text>
 
     <text
         x="50%"
@@ -460,7 +933,18 @@
         font-weight="bold"
         fill="#000"
         class="smooth-text-reverse"
-    >57 Followers</text>
+    >
+        <animateMotion path="M40,20 C40,-20 40,80 40,20 C40-20 20,80 20,20 z" begin="0s" dur="3s" repeatCount="indefinite"/>
+
+        <animate
+            attributeName="font-size"
+            values="3.5em;2.5em;3.5em"
+            dur="1s"
+            repeatCount="indefinite"
+            />
+        
+        57 Followers
+    </text>
 
         <text
             x="50%"
@@ -468,5 +952,5 @@
             text-anchor="right"
             fill="#000"
             class="date-text"
-        >Last Updated: 11:04:30 AM</text>
+        >Last Updated: 12:05:29 PM</text>
 </svg> 
