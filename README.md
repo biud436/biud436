@@ -1,3 +1,5 @@
+<div align="center">
+  
 <p align="center"><img src="./profile.svg"></p>
 
 ## 🛠 Skills
@@ -34,22 +36,30 @@
 
 ### Web Applications
 
-#### [Blog Front](https://github.com/biud436/blog-front) `Next.js`
-This project is the blog that is made with the javascript library called `React.js` and the framework named `Next.js`
+  <a href="https://github.com/biud436/blog-front">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=blog-front&theme=monokai"/>
+  </a>
 
-#### [Blog Api Server](https://github.com/biud436/blog-api-server) `Nest.js`
-This project is the blog server that is made with the server framework called `nestjs@v9.1.4` and stuffs such as `Redis`, `TypeORM`, `MariaDB`, `Docker`
+  <a href="https://github.com/biud436/blog-api-server">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=blog-api-server&theme=monokai"/>
+  </a>
 
 ### Desktop Applications
 
-#### [InitialEditor](https://github.com/biud436/InitialEditor) `Typescript` `Next.js`
-This project allows you to edit multi dimensional tile map on my own game engine. it is worked fine on any platforms such as Linux Desktop, OSX, Windows and so on.
+  <a href="https://github.com/biud436/InitialEditor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=InitialEditor&theme=monokai"/>
+  </a>
+  
+  <a href="https://github.com/biud436/Initial2D">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=Initial2D&theme=monokai"/>
+  </a>  
+  
+  <a href="https://github.com/biud436/MV-App-Builder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MV-App-Builder&theme=monokai"/>
+  </a>    
+  
+  <a href="https://github.com/biud436/vscode-rgss-script-compiler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=monokai"/>
+  </a>      
 
-#### [Initial2D](https://github.com/biud436/Initial2D) `C++` `GDI`
-This game engine is developed base on Windows GDI using `C++` language. it provides a many of features like Tile Map Tool and the `Lua` Script Editor. This is only provided GDI renderer currently.
-
-#### [MV-App-Builder](https://github.com/biud436/MV-App-Builder) `C#` `Winform`
-This tool allows you to easy to build the app for RPG Maker MV using Cordova. it is developed base on `.NET Framework` using `C#` language. 
-
-#### [VSCode RGSS Script Compiler Extension](https://github.com/biud436/vscode-rgss-script-compiler) `Typescript`
-RGSS Script Compiler is the extension of Text Editor called `Visual Studio Code`. if you are using this extension, you can modify script files and create the bundle file called Scripts.rvdata2 in Visual Studio Code without internal Script Editor directly.
+</div>
