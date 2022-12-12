@@ -62,7 +62,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=monokai"/>
   </a>    
   
-### Others
+### ETC
   
   <a href="https://github.com/biud436/MV">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MV&theme=monokai"/>
