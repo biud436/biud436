@@ -76,6 +76,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=RGSS3&theme=monokai"/>
   </a>      
 
-  
+   <a href="https://github.com/biud436/Decrypter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=Decrypter&theme=monokai"/>
+  </a>       
   
 </div>
