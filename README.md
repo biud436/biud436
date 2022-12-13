@@ -67,5 +67,9 @@
   <a href="https://github.com/biud436/MV">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MV&theme=monokai"/>
   </a>      
+ 
+  <a href="https://github.com/biud436/RGSS3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=RGSS3&theme=monokai"/>
+  </a>      
 
 </div>
