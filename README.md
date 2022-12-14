@@ -4,7 +4,7 @@
 
 I'm a Software Engineer and have studied programming since 2013. 
   
-I've been working on web Backend and Frontend software development since 2021. 
+I've been working on Web Backend and Web Frontend software development since 2021. 
   
 ## 🧳 Github Stats
 
