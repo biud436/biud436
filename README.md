@@ -2,7 +2,9 @@
   
 <p align="center"><img src="./profile.svg"></p>
 
-I'm a Software Engineer and have studied programming since 2013. I've been working on web Backend and Frontend software development since 2021. 
+I'm a Software Engineer and have studied programming since 2013. 
+  
+I've been working on web Backend and Frontend software development since 2021. 
   
 ## 🧳 Github Stats
 
