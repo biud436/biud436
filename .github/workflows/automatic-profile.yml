@@ -27,7 +27,7 @@ jobs:
       - name : Download SVG image
         run: |
           rm -rf ./profile.svg
-          curl "https://blog-api.biud436.com/image/shake-profile?text=I%27m%20a%20Backend%20Server%20Application%20Developer.&color=ffffff&textSize=20&y=152&username=biud436&seed=$RANDOM" > profile.svg
+          curl "https://blog-api.biud436.com/image/shake-profile?text=Software%20Engineer&color=ffffff&textSize=20&y=152&username=biud436&seed=$RANDOM" > profile.svg
           git add .
       # Install dependencies    
       - name : Commit files
