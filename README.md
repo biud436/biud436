@@ -2,6 +2,8 @@
   
 <p align="center"><img src="./profile.svg"></p>
 
+I'm a Software Engineer and have studied programming since 2013. I've been working on web Backend and Frontend software development since 2021. 
+  
 ## 🧳 Github Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=monokai&count_private=true" alt="biud436" /></p>
