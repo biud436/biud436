@@ -148,7 +148,7 @@
         font-weight="bold"
         fill="#000"
         class="smooth-text"
-    >어진석's Profile</text>   
+    >Jinseok Eo's Profile</text>   
 
         <text
             x="10"
@@ -484,5 +484,5 @@
             text-anchor="right"
             fill="#000"
             class="date-text"
-        >Last Updated: 11:04:28 AM</text>
+        >Last Updated: 11:39:51 AM</text>
 </svg> 
