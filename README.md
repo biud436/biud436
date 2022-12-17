@@ -2,7 +2,7 @@
   
 ![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient)
   
-<h3>🛠 Tech Stack</h3>
+<h2>🛠 Tech Stack</h2>
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
