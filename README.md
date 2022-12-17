@@ -1,5 +1,7 @@
 <div align="center">
   
+![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient)
+  
 <!-- <p align="center"><img src="./profile.svg"></p> -->
   
 <details>
