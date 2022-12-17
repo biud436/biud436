@@ -1,10 +1,6 @@
 <div align="center">
   
 <p align="center"><img src="./profile.svg"></p>
-
-I'm a Software Engineer and have studied programming since 2013. 
-  
-I've been working on Web Backend and Web Frontend software development since March 2021. 
   
 <details>
 <summary>Expand</summary>  
