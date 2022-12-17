@@ -2,10 +2,6 @@
   
 ![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient)
   
-<!-- <p align="center"><img src="./profile.svg"></p> -->
-  
-<details>
-<summary>Expand</summary>  
 <h3>🛠 Tech Stack</h3>
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -19,7 +15,6 @@
 <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</details>  
 
 ## 🧳 Github Stats
 
