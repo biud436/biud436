@@ -29,7 +29,7 @@
 </details>
   
 ## 😎 Projects
-
+  
 ### Web Applications
 
   <a href="https://github.com/biud436/blog-api-server">
