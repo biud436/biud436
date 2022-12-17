@@ -1,6 +1,6 @@
 <div align="center">
   
-<p align="center"><img src="./profile.svg"></p>
+<!-- <p align="center"><img src="./profile.svg"></p> -->
   
 <details>
 <summary>Expand</summary>  
