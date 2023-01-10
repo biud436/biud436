@@ -1,6 +1,6 @@
 <div align="center">
   
-![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=170&text=Backend%20Developer&fontAlign=50&fontAlignY=40&color=gradient)
+![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=170&text=&fontAlign=25&fontAlignY=40&color=gradient)
   
 <h2>🛠 Tech Stack</h2>
 <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
