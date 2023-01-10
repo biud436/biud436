@@ -45,23 +45,5 @@
   <a href="https://github.com/biud436/vscode-rgss-script-compiler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=transparent"/>
   </a>    
-  
-### ETC
-  
-  <a href="https://github.com/biud436/MV">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MV&theme=transparent"/>
-  </a>      
- 
-  <a href="https://github.com/biud436/MZ">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MZ&theme=transparent"/>
-  </a>        
- 
-  <a href="https://github.com/biud436/RGSS3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=RGSS3&theme=transparent"/>
-  </a>      
 
-   <a href="https://github.com/biud436/Decrypter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=Decrypter&theme=transparent"/>
-  </a>       
-  
 </div>
