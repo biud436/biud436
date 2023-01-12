@@ -18,7 +18,8 @@
 
         
 ## 😎 Projects
-
+<details>
+<summary>Expand</summary>
 ### Web Applications
 
   <a href="https://github.com/biud436/blog-api-server">
@@ -46,5 +47,5 @@
   <a href="https://github.com/biud436/vscode-rgss-script-compiler">
     <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=transparent"/>
   </a>    
-
+</details>
 </div>
