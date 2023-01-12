@@ -9,7 +9,7 @@
 
 ## 🧳 Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" alt="biud436" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" alt="biud436" /></p>
 <details>
 <summary>Expand</summary>
 <img src="./github-metrics.svg">
@@ -18,36 +18,33 @@
 
         
 ## 😎 Projects
-<details>
-<summary>Expand</summary>
 
 ### Web Applications
 
   <a href="https://github.com/biud436/blog-api-server">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=blog-api-server&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=blog-api-server&theme=transparent"/>
   </a>  
   
   <a href="https://github.com/biud436/blog-front">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=blog-front&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=blog-front&theme=transparent"/>
   </a>
 
 ### Desktop Applications
 
   <a href="https://github.com/biud436/InitialEditor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=InitialEditor&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=InitialEditor&theme=transparent"/>
   </a>
   
   <a href="https://github.com/biud436/Initial2D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=Initial2D&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=Initial2D&theme=transparent"/>
   </a>  
   
   <a href="https://github.com/biud436/MV-App-Builder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=MV-App-Builder&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=MV-App-Builder&theme=transparent"/>
   </a>    
   
   <a href="https://github.com/biud436/vscode-rgss-script-compiler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=transparent"/>
+    <img align="center" src="https://github-readme-stats-biud436.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=transparent"/>
   </a>    
 
-</details>
 </div>
