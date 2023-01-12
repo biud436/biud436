@@ -9,15 +9,17 @@
 
 ## 🧳 Github Stats
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" alt="biud436" /></p>
+-->
 
 <details>
 <summary>Expand</summary>
 <img src="./github-metrics.svg">
 </details>
-  
+<!-- 
 ## 😎 Projects
-  
+
 ### Web Applications
 
   <a href="https://github.com/biud436/blog-api-server">
@@ -45,5 +47,5 @@
   <a href="https://github.com/biud436/vscode-rgss-script-compiler">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=biud436&repo=vscode-rgss-script-compiler&theme=transparent"/>
   </a>    
-
+-->
 </div>
