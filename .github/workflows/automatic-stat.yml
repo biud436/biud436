@@ -3,8 +3,8 @@ name: Download profile image
 
 # Controls when the workflow will run
 on:
-    # Schedule updates (each hour)
-    schedule: [{ cron: "0 */12 * * 1-6" }]
+    # 3시간마다 업데이트
+    schedule: [{ cron: "0 */3 * * *" }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ["master", "main"] }
@@ -27,14 +27,14 @@ jobs:
             - name: Download SVG image
               run: |
                   rm -rf ./profile.svg
-                  curl "https://blog-api.biud436.com/image/shake-profile?text=Software%20Engineer&color=ffffff&textSize=20&y=152&username=biud436&seed=$RANDOM" > profile.svg
+                  curl "https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" > stats.svg
                   git add .
             # Install dependencies
             - name: Commit files
               run: |
                   git config --local user.name "biud436"
                   git config --local user.email "biud436@gmail.com"
-                  git commit -m "feat: Update profile.svg" -a
+                  git commit -m "feat: Update stats.svg" -a
             - name: Push changes
               uses: ad-m/github-push-action@master
               with:
