@@ -9,7 +9,7 @@
 
 ## 🧳 Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" alt="biud436" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" alt="biud436" /></p>
 <details>
 <summary>Expand</summary>
 <img src="./github-metrics.svg">
