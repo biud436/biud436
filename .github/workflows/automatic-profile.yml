@@ -26,9 +26,6 @@ jobs:
               run: |
             - name: Download SVG image
               run: |
-                  rm -rf ./profile.svg
-                  curl "https://blog-api.biud436.com/image/shake-profile?text=Software%20Engineer&color=ffffff&textSize=20&y=152&username=biud436&seed=$RANDOM" > profile.svg
-                  git add .
                   rm -rf ./stats.svg
                   curl "https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=transparent&count_private=true&hide=contribs,prs" > stats.svg
                   git add .
