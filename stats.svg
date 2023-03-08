@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jinseok Eo's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 121, Total Commits in 2023 : 121, Total Issues: 423</desc>
+        <desc id="descId">Total Stars Earned: 121, Total Commits in 2023 : 121, Total Issues: 424</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 83.40684855989825;
+        stroke-dashoffset: 83.29867251860178;
       }
     }
   
@@ -190,7 +190,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >423</text>
+      >424</text>
     </g>
   </g>
     </svg>
