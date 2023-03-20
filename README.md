@@ -18,3 +18,6 @@
     - Frontend: React, Nuxt.js, Vue, Styled Components
     - Infrastructure: AWS, Docker
     - Database: MariaDB, MySQL, Redis
+
+## ☘️ I’m currently learning
+  - Next.js
