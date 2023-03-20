@@ -9,5 +9,12 @@
 <summary>Expand</summary>
 <img src="./github-metrics.svg">
 </details>
-
+  
 </div>
+
+## 🔖 Work Experience
+  - Harven Backend Developer & Frontend Developer (Apr 2021 ~ Present)
+    - Backend: Nest.js, TypeORM, SequelizeORM
+    - Frontend: React, Nuxt.js, Vue
+    - Infrastructure: AWS, Docker
+    - Database: MariaDB, MySQL, Redis
