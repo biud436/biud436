@@ -20,4 +20,4 @@
     - Database: MariaDB, MySQL, Redis
 
 ## ☘️ I’m currently learning
-  - Next.js
+  - [Next.js](https://academy.dream-coding.com/courses/next)
