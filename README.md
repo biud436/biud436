@@ -1,4 +1,4 @@
-<div align="center">
+⁹<div align="center">
   
 ![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=120&text=&fontAlign=25&fontAlignY=40&color=gradient)
   
@@ -15,7 +15,7 @@
 ## 🔖 Work Experience
   - Harven Backend Developer & Frontend Developer (Apr 2021 ~ Present)
     - Backend: Nest.js, TypeORM, SequelizeORM
-    - Frontend: React, Nuxt.js, Vue, Styled Components, recoil, mobx
+    - Frontend: React, Nuxt.js
     - Infrastructure: AWS, Docker
     - Database: MariaDB, MySQL, Redis
 
