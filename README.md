@@ -15,7 +15,7 @@
 ## 🔖 Work Experience
   - Harven Backend Developer & Frontend Developer (Apr 2021 ~ Present)
     - Backend: Nest.js, TypeORM, SequelizeORM
-    - Frontend: React, Nuxt.js, Vue, Styled Components
+    - Frontend: React, Nuxt.js, Vue, Styled Components, recoil, mobx
     - Infrastructure: AWS, Docker
     - Database: MariaDB, MySQL, Redis
 
