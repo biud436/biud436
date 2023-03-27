@@ -1,4 +1,4 @@
-⁹<div align="center">
+<div align="center">
   
 ![PROFILE](https://capsule-render.vercel.app/api?type=waving&height=120&text=&fontAlign=25&fontAlignY=40&color=gradient)
   
