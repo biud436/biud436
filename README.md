@@ -21,4 +21,3 @@
 
 ## ☘️ I’m currently learning
   - [Next.js](https://academy.dream-coding.com/courses/next) (March 15th, 2023 ~ Present)
-  - Spring JPA, Spring Security (March 26th, 2023 ~ Present)
