@@ -11,13 +11,3 @@
 </details>
   
 </div>
-
-## 🔖 Work Experience
-  - Harven Backend Developer & Frontend Developer (Apr 2021 ~ Present)
-    - Backend: Nest.js, TypeORM, SequelizeORM
-    - Frontend: React, Nuxt.js
-    - Infrastructure: AWS, Docker
-    - Database: MariaDB, MySQL, Redis
-
-## ☘️ I’m currently learning
-  - [Next.js](https://academy.dream-coding.com/courses/next) (March 15th, 2023 ~ Present)
