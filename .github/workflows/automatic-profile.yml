@@ -4,7 +4,7 @@ name: Download profile image
 # Controls when the workflow will run
 on:
     # Schedule updates (each hour)
-    schedule: [{ cron: "0 */8 * * 1-6" }]
+    schedule: [{ cron: "0 */8 * * *" }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ["master", "main"] }
