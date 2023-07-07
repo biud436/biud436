@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #ff6e96;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #f8f8f2;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,25 +33,25 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f8f8f2;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #4c71f2;
+      fill: #79dafa;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #2f80ed;
+      stroke: #ff6e96;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #2f80ed;
+      stroke: #ff6e96;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.47087849727521;
+        stroke-dashoffset: 81.43860942943235;
       }
     }
   
@@ -105,7 +105,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="494"
-          fill="#fffefe"
+          fill="#282a36"
           stroke-opacity="1"
         />
 
