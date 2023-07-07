@@ -27,7 +27,7 @@ jobs:
             - name: Download SVG image
               run: |
                   rm -rf ./stats.svg
-                  curl "https://github-readme-stats-biud436.vercel.app/api?username=biud436&theme=dracula&show_icons=true&locale=en&theme=transparent&count_private=true" > stats.svg
+                  curl "https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true" > stats.svg
                   git add .
             # Install dependencies
             - name: Commit files
