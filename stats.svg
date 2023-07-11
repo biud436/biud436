@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">어진석's GitHub Stats, Rank: A++</title>
+        <title id="titleId">Jinseok Eo's GitHub Stats, Rank: A++</title>
         <desc id="descId">Total Stars Earned: 132, Total Commits in 2023 : 132, Total PRs: 134, Total Issues: 599, Contributed to (last year): 21</desc>
         <style>
           .header {
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.43645834522707;
+        stroke-dashoffset: 81.3848393400703;
       }
     }
   
@@ -120,7 +120,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >어진석's GitHub Stats</text>
+      >Jinseok Eo's GitHub Stats</text>
     </g>
       </g>
     
