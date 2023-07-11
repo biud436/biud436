@@ -1,4 +1,3 @@
-<div align="center">  
 
 ## 🧳 Github Stats
 
@@ -8,5 +7,3 @@
 <summary>Expand</summary>
 <img src="./github-metrics.svg">
 </details>
-  
-</div>
