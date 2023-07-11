@@ -1,4 +1,4 @@
-안녕하세요. 어진석입니다.
+안녕하세요.
 
 저는 Backend Developer이며 Node.js를 사용합니다.
 
