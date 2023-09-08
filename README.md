@@ -1,4 +1,4 @@
-Hello, I'm a Backend Developer who has been working with Node.js.
+Hello. I'm a backend developer using Node.js.
 
 ## 🧳 Github Stats
 
