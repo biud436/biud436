@@ -1,4 +1,3 @@
-Hello. I'm a backend developer using Node.js.
 
 ## 🧳 Github Stats
 
