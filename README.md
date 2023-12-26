@@ -1,9 +1,3 @@
-
 ## 🧳 Github Stats
 
-<p>&nbsp;<img align="center" src="./stats.svg" alt="biud436" /></p>
-
-<details>
-<summary>Expand</summary>
-<img src="./github-metrics.svg">
-</details>
+[![Biud436's GitHub stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true)](https://github.com/biud436/)
