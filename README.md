@@ -8,4 +8,4 @@
 
 - FrontEnd: HTML5, CSS3, JavaScript, React, Mobx, Recoil, Styled Components, TailwindCSS, SWR, Webpack, Canvas, WebGL
 
-- Game Client: C++, SDL2, Win32 API, OpenGL, Lua
+- Game Client: C++, SDL2, Win32 API
