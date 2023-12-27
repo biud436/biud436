@@ -6,6 +6,6 @@
 
 - BackEnd: Node.js, Fastify, Typescript, NestJS, MySQL, MariaDB, Redis, Docker
 
-- FrontEnd: HTML5, CSS3, JavaScript, React, Mobx, Recoil, Styled Components, TailwindCSS, Webpack, Canvas, WebGL
+- FrontEnd: HTML5, CSS3, JavaScript, React, Mobx, Recoil, Styled Components, TailwindCSS, SWR, Webpack, Canvas, WebGL
 
 - Game Client: C++, SDL2, Win32 API, OpenGL, Lua
