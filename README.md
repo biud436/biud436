@@ -4,10 +4,10 @@
 
 ## 🔨 Stack
 
-**Backend**: NestJS, Node.js, express, fastify, Spring Boot, docker, redis, AWS RDS, AWS EC2
+**Backend**: NestJS, Node.js, express, fastify, docker, redis, AWS RDS, AWS EC2
 
 **Database**: MariaDB
 
 **Frontend**: React.js
 
-**Languages**: **Typescript**, Javascript, Ruby, Java, C#, C++
+**Languages**: **Typescript**, Javascript, Ruby, C#, C++
