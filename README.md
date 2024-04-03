@@ -4,7 +4,7 @@
 
 ## 🔨 Tech Stack
 
-**Backend**: NestJS, Node.js, docker, redis, AWS
+**Backend**: NestJS, Node.js, docker, redis, AWS, linux ubuntu
 
 **Database**: MariaDB
 
