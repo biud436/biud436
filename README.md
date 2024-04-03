@@ -4,10 +4,10 @@
 
 ## 🔨 Tech Stack
 
-**Backend**: NestJS, Node.js, docker, redis, AWS, linux ubuntu
+**Backend**: NestJS, Node.js, TypeORM, Docker, Redis, AWS EC2, Linux(Ubuntu)
 
 **Database**: MariaDB
 
-**Frontend**: React.js, SWR, styled components
+**Frontend**: React.js, SWR, Styled Components
 
 **Languages**: **Typescript**, Javascript, Ruby, C#, C++
