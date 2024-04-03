@@ -4,7 +4,7 @@
 
 ## 🔨 Stack
 
-**Backend**: NestJS, Node.js, express, fastify, docker, redis, AWS
+**Backend**: NestJS, Node.js, docker, redis, AWS
 
 **Database**: MariaDB
 
