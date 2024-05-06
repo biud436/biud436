@@ -8,6 +8,6 @@
 
 **Database**: MariaDB
 
-**Frontend**: React.js, SWR, React Query, Styled Components, React Native
+**Frontend**: React, React Native, SWR, React Query, Styled Components, MUI
 
 **Languages**: **Typescript**, Javascript, Ruby, C#, C++
