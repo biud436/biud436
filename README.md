@@ -10,4 +10,4 @@
 
 **Frontend**: React, React Native, SWR, React Query, Styled Components, MUI
 
-**Languages**: **Typescript**, Javascript, Ruby, C#, C++
+**Languages**: **Typescript**, Javascript, C++
