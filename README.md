@@ -8,6 +8,6 @@
 
 **Database**: MariaDB
 
-**Frontend**: React, React Native, TanStack Query, Styled Components, MUI, Mobx, Zustand
+**Frontend**: React, React Native, TanStack Query, Styled Components, MUI, Zustand, Mobx
 
 **Languages**: **Typescript**, Javascript, C++
