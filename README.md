@@ -10,4 +10,4 @@
 
 **Frontend**: React, React Native, TanStack Query, Styled Components, MUI, Zustand, Mobx
 
-**Languages**: **Typescript**, Javascript, C++
+**Languages**: Typescript, Javascript, C++
