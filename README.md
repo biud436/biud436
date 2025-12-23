@@ -34,4 +34,4 @@ Backend · Node.js/NestJS · OSS for RPG Maker & TypeScript tools
 
 <!-- Stats -->
 ### 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true)
