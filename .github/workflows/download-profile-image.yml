@@ -1,0 +1,41 @@
+# This is a basic workflow to help you get started with Actions
+name: Download profile image
+
+# Controls when the workflow will run
+on:
+    # Schedule updates (weekly - every Sunday at midnight UTC)
+    schedule: [{ cron: "0 0 * * 0" }]
+    # Lines below let you run workflow manually and on each commit
+    workflow_dispatch:
+    push: { branches: ["master", "main"] }
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+    # This workflow contains a single job called "build"
+    build:
+        # The type of runner that the job will run on
+        runs-on: ubuntu-latest
+
+        # Steps represent a sequence of tasks that will be executed as part of the job
+        steps:
+            # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+            - uses: actions/checkout@v3
+
+            - name: Download SVG image
+              run: |
+                  rm -rf ./stats.svg
+                  curl "https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true" > stats.svg
+                  git add .
+
+            # Install dependencies
+            - name: Commit files
+              run: |
+                  git config --local user.name "github-actions[bot]"
+                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
+                  git commit -m "feat: Update profile.svg" -a
+
+            - name: Push changes
+              uses: ad-m/github-push-action@master
+              with:
+                  github_token: ${{ secrets.METRICS_TOKEN }}
+                  branch: ${{ github.ref }}
