@@ -22,16 +22,19 @@ Backend · Node.js/NestJS · OSS for RPG Maker & TypeScript tools
 </p>
 
 <!-- Featured -->
-### 🔥 Featured Projects
-- **Stingerloom** – A custom Node.js server framework    
-<a href="https://github.com/biud436/stingerloom">Repo</a>
 
-- **InitialEditor** – A web-based tilemap editor for a custom 2D game engine    
-<a href="https://github.com/biud436/InitialEditor">Repo</a>
-  
+### 🔥 Featured Projects
+
+- **Stingerloom** – A custom Node.js server framework  
+  <a href="https://github.com/biud436/stingerloom">Repo</a>
+
+- **InitialEditor** – A web-based tilemap editor for a custom 2D game engine  
+  <a href="https://github.com/biud436/InitialEditor">Repo</a>
 - **RPG Maker MV/MZ Plugins** – A collection of plugins that extend and enhance RPG Maker MV/MZ  
-  <a href="https://github.com/biud436/MV">MV Repo</a> · <a href="https://github.com/biud436/MZ">MZ Repo</a>  
+  <a href="https://github.com/biud436/MV">MV Repo</a> · <a href="https://github.com/biud436/MZ">MZ Repo</a>
 
 <!-- Stats -->
+
 ### 📊 Stats
-![GitHub Stats](https://github-readme-stats-biud436.vercel.app/api?username=biud436&show_icons=true&locale=en&theme=dracula&count_private=true)
+
+![GitHub Stats](./stats.svg)
