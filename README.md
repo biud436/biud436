@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Hi, I'm Jinseok (biud436) 👋</h1>
+<h1 align="center">Hi, I'm Jinseok (biud436) </h1>
 <p align="center">
 Backend · Node.js/NestJS · OSS for RPG Maker & TypeScript tools
 </p>
@@ -25,7 +25,7 @@ Backend · Node.js/NestJS · OSS for RPG Maker & TypeScript tools
 
 ### 🔥 Featured Projects
 
-- **Stingerloom** – A custom Node.js server framework  
+- **Stingerloom** – Modern TypeScript framework with decorators, dependency injection, and built-in ORM for Node.js  
   <a href="https://github.com/biud436/stingerloom">Repo</a>
 
 - **InitialEditor** – A web-based tilemap editor for a custom 2D game engine  
