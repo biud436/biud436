@@ -25,8 +25,7 @@ Backend · Node.js/NestJS · OSS for RPG Maker & TypeScript tools
 
 ### 🔥 Featured Projects
 
-- **Stingerloom** – Modern TypeScript framework with decorators, dependency injection, and built-in ORM for Node.js  
-  <a href="https://github.com/biud436/stingerloom">Repo</a>
+- **[Stingerloom](https://github.com/biud436/stingerloom)** – Modern TypeScript framework with decorators, dependency injection, and built-in ORM for Node.js  
 
 - **InitialEditor** – A web-based tilemap editor for a custom 2D game engine  
   <a href="https://github.com/biud436/InitialEditor">Repo</a>
