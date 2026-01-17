@@ -16,7 +16,7 @@ Node.js Developer
 
 ### 🔥 Featured Projects
 
-- **[Stingerloom](https://github.com/biud436/stingerloom)** – Modern TypeScript framework with decorators, dependency injection, and built-in ORM for Node.js  
+- **[Stingerloom](https://github.com/biud436/stingerloom)** – Modern TypeScript framework with decorators and dependency injection for Node.js 
 
 - **[InitialEditor](https://github.com/biud436/InitialEditor)** – A web-based tilemap editor for a custom 2D game engine  
 
