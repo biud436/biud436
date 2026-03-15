@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jinseok Eo's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 210, Total Commits in 2026 : 210, Total PRs: 473, Total Issues: 1716, Contributed to (last year): 32</desc>
+        <desc id="descId">Total Stars Earned: 211, Total Commits in 2026 : 211, Total PRs: 473, Total Issues: 1767, Contributed to (last year): 29</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 92.45173344569173;
+        stroke-dashoffset: 91.80732449221826;
       }
     }
   
@@ -160,7 +160,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >210</text>
+      >211</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -175,7 +175,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >3.6k</text>
+      >3.7k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -205,7 +205,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >1.7k</text>
+      >1.8k</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -220,7 +220,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >32</text>
+      >29</text>
     </g>
   </g>
     </svg>
